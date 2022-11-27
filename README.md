@@ -13,7 +13,7 @@
 ![book](https://img1.od-cdn.com/ImageType-400/1191-1/2D6/72E/C4/%7B2D672EC4-E082-45BD-9663-5E7023CE0734%7DImg400.jpg)
 
 ### Book Title: Rise of the Isle of the Lost
-### Author: Rise of the Isle of the Lost
+### Author: Melissa De La Cruz
 ![alt text](.jpg)
 
 ## Adventure
